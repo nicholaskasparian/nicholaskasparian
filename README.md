@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CoderRlix
+- 👋 Hi, I’m @nicholaskasparian
 - 👀 I’m interested in motorsport (especially Formula 1!)
 - 🌱 I’m currently learning ML. 
 - 😄 Pronouns: he/him
