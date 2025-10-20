@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nicholaskasparian
-- 👀 I’m interested in motorsport (especially Formula 1 and MotoGP) and machine learning (particularly TinyML models on edge devices).
+- 👀 I’m interested in motorsport (especially Formula 1 and MotoGP), public transit (specifically light rail), and machine learning (particularly TinyML models on edge devices).
 - 🌱 I’m currently learning to make quant trading algorithms. 
 - 😄 Pronouns: he/him
