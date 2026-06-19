@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @nicholaskasparian
-- 👀 I’m interested in motorsport (especially Formula 1 and MotoGP), public transit (specifically light rail), and machine learning (particularly TinyML models on edge devices).
-- 🌱 I’m currently learning to make tools for LLMs.
-- 😄 Pronouns: he/him
-- 💼 Currently seeking internships for Summer 2026!
+
